@@ -1,0 +1,78 @@
+.all {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    background-color: lightblue;
+    margin: 4px 2px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.container {
+    border: 10px solid rgb(42, 150, 190);
+    height: 10vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.result {
+    margin: auto;
+    white-space: pre-line;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: center;
+    /* background-color: lightblue; */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.table {
+    border: 1px solid;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    background-color: lightblue;
+    margin: 4px 2px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.tabl {
+    /* white-space: pre-line; */
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    /* border: 1px solid; */
+    background-color: lightblue;
+    font-size: 10px;
+    /* margin: auto;
+    margin-left: auto;
+    margin-right: auto; */
+
+}
+
+.t {
+    /* white-space: pre-line; */
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    /* display: flex; */
+    /* justify-content: center; */
+    font-family:'Times New Roman', Times, serif;
+    border: 1px solid;
+    background-color: lightblue;
+    font-size: 15px;
+    /* margin: auto;
+    margin-left: auto;
+    margin-right: auto; */
+
+}
